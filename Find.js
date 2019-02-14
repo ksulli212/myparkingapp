@@ -1,7 +1,11 @@
 var latitude;
+
 var longitude;
+
 var parkedLatitude;
+
 var parkLongitude;
+
 var storage;
 
 function init(){
