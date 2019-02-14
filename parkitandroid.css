@@ -1,1 +1,16 @@
-
+body{
+  font-family: Roboto, sans-serif;
+}
+#navbar{
+ background-color: #008AE0;
+  color: white;
+  box-shadow: darkblue 3px 3px 5px;
+  
+}
+#park, #retrieve{
+ border: 1px white solid; 
+}
+#button{
+ background-color: #008AE0;
+  color: white;
+}
