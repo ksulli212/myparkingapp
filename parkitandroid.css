@@ -2,15 +2,23 @@ body{
   font-family: Roboto, sans-serif;
 }
 #navbar{
- background-color: #008AE0;
+ background-color: red;
   color: white;
-  box-shadow: darkblue 3px 3px 5px;
-  
+  box-shadow: darkred 3px 3px 5px;
+
 }
 #park, #retrieve{
- border: 1px white solid; 
+ border: 1px white solid;
 }
-#button{
- background-color: #008AE0;
+button{
+ background-color: red;
   color: white;
+}
+#instructions, #map, #directions{
+  box-shadow: darkred 3px 3px 5px;
+  border: 1px white solid;
+
+}
+#understood{
+  border: 1px black solid;
 }
